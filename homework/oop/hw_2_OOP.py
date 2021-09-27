@@ -83,6 +83,11 @@ bear.hunt
 bear.eat()
 bear.sleep()
 
+print(isinstance(tiger, Animals))
+print(isinstance(horse, Animals))
+print(isinstance(cat, Animals))
+print(isinstance(dog, Animals))
+print(isinstance(bear, Animals))
 
 """1.a. Create a new class Human and use multiple inheritance to create Centaur class,
  create an instance of Centaur class and call the common method of these classes and unique."""
